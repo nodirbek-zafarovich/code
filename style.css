@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 * {
     margin: 0;
     padding: 0;
@@ -103,104 +105,134 @@ ul {
 /* header */
 
 /* main section */
+>>>>>>> master
 
 
-.headphone_about {
-    display: flex;
-    gap: 90px;
+
+<<<<<<< HEAD
+/* footer */
+.footer_top {
+    background-image: url(./image2/bck_nota.png);
+    align-items: center;
+    margin-top: 70px;
+    text-align: center;
+    justify-content: center;
 }
 
-.collection_section h1 {
-    text-align: center;
+.footer_topBox {
+    width: 812px;
+    height: 392px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    background: #FFF4F4;
+}
+
+.form_box {
+    display: flex;
+    width: 503px;
+    height: 61px;
+    padding-left: 30px;
+    align-items: center;
+    gap: 10px;
+    flex-shrink: 0;
+    border-radius: 73px;
+    background: #FFF;
+    border: none;
+    gap: 150px;
+    margin: 36px 10px 4px 100px;
+}
+
+.footer_btn {
+    color: #FFF;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 140%;
+    display: inline-flex;
+    padding: 15px 30px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 50px;
+    background: #FF4948;
+    border: none;
+    height: 61px;
+
+
+
+}
+
+.form_box input {
     color: #180202;
-    font-size: 44px;
+    font-family: Rubik;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    outline: none;
+    border: none;
+
+}
+
+.footer_topBox h1 {
+    color: #180202;
+    text-align: center;
+    font-size: 48px;
     font-weight: 700;
     line-height: 130%;
+
 }
 
-.headphone_color {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.headphone_img1 {
-    position: relative;
-    right: -150px;
-    z-index: -1;
-}
-
-.headphone_img2 {
-    position: relative;
-    right: 150px;
-    z-index: -1;
-}
-
-.about_card {
-    display: flex;
-    gap: 15px;
-    margin-top: 40px;
-}
-
-.more_option {
-    color: #FF4948;
+.footer_topBox p {
+    color: #180202;
+    text-align: center;
     font-size: 16px;
-    font-weight: 500;
+    font-weight: 400;
     line-height: 150%;
-    margin-top: 7px;
+    margin-top: 30px;
 }
 
-.nota {
-    position: relative;
-    right: 500px;
-    top: -200px;
+.footer_topBox {
+
+    padding: 54px 100px;
 }
 
-.about_right {
-    display: flex;
-    align-items: end;
-}
-
-.product{
+.footer_bottom {
+    height: 190px;
+    width: 100%;
+    background-color: #FF4948;
     margin-top: 190px;
 }
 
-.product_text{
-    text-align: center;
-    margin-bottom: 100px;
+.footer_link {
+    display: flex;
+    gap: 30px;
 }
 
-.img_section{
-    width: 332px;
-    height: 331px;
-    flex-shrink: 0;
-    border-radius: 30px;
-    background: #FFE5EE;
+.foter_text {
+    color: #FFF;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 140%;
 }
 
-.product_text h1{
-    margin-bottom: 10px;
-    color: #180202;
-    text-align: center;
-    font-size: 44px;
-    font-weight: 700;
-    line-height: 130%; 
-}
-
-.product_img{
-    position: relative;
-    top: -70px;
-    right: -20px;
-}
-
-.product_cards{
+.d_flex {
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    padding-top: 60px;
 }
 
-.headphone_box{
-    margin-top: 130px;
+.footer_img {
+    border: 1px solid white;
+    background-color: white;
+    padding: 10px;
+    border-radius: 50%;
+    margin-left: 15px;
 }
+<<<<<<< HEAD
+/* footer */
+=======
+>>>>>>> master
+=======
 
 
 .box_right h1{
@@ -353,3 +385,4 @@ ul {
     margin-left: 15px;
 }
 /* footer */
+>>>>>>> master
