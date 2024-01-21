@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Rubik', sans-serif;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+/* header */
+
+
+
+/* main section */
+
+
+.headphone_about {
+    display: flex;
+    gap: 90px;
+}
+
+.collection_section h1 {
+    text-align: center;
+    color: #180202;
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 130%;
+}
+
+.headphone_color {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.headphone_img1 {
+    position: relative;
+    right: -150px;
+    z-index: -1;
+}
+
+.headphone_img2 {
+    position: relative;
+    right: 150px;
+    z-index: -1;
+}
+
+.about_card {
+    display: flex;
+    gap: 15px;
+    margin-top: 40px;
+}
+
+.more_option {
+    color: #FF4948;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 150%;
+    margin-top: 7px;
+}
+
+.nota {
+    position: relative;
+    right: 500px;
+    top: -200px;
+}
+
+.about_right {
+    display: flex;
+    align-items: end;
+}
+
+.product{
+    margin-top: 190px;
+}
+
+.product_text{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.img_section{
+    width: 332px;
+    height: 331px;
+    flex-shrink: 0;
+    border-radius: 30px;
+    background: #FFE5EE;
+}
+
+.product_text h1{
+    margin-bottom: 10px;
+    color: #180202;
+    text-align: center;
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 130%; 
+}
+
+.product_img{
+    position: relative;
+    top: -70px;
+    right: -20px;
+}
+
+.product_cards{
+    display: flex;
+    justify-content: space-between;
+}
+
+.headphone_box{
+    margin-top: 130px;
+}
+
+
+.box_right h1{
+    color: #000;
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 130%; 
+}
+
+.headphone_box{
+    display: flex;
+    padding-top: 20px;
+}
+
+.box_text{
+    border-bottom: 1px solid rgb(96, 89, 89);
+    display: flex;
+    gap: 10px;
+    margin-top: 50px;
+
+}
+.box_text p{
+    color: #000;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 140%; 
+    opacity: 0.7;
+} 
+
+
+
+/* main section */
+
