@@ -1,5 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> master
 body {
     font-family: 'Rubik', sans-serif;
 }
@@ -97,8 +104,12 @@ ul {
 }
 
 /* header bottom */
+<<<<<<< HEAD
 
 =======
+=======
+/* header */
+>>>>>>> master
 
 /* main section */
 
@@ -232,4 +243,126 @@ ul {
 
 /* main section */
 
+<<<<<<< HEAD
+>>>>>>> master
+=======
+/* footer */
+.footer_top {
+    /* background-image: url(./img2/bck_nota.png); */
+    align-items: center;
+    margin-top: 70px;
+    text-align: center;
+    justify-content: center;
+}
+
+.footer_topBox {
+    width: 812px;
+    height: 392px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    background: #FFF4F4;
+}
+
+.form_box {
+    display: flex;
+    width: 503px;
+    height: 61px;
+    padding-left: 30px;
+    align-items: center;
+    gap: 10px;
+    flex-shrink: 0;
+    border-radius: 73px;
+    background: #FFF;
+    border: none;
+    gap: 150px;
+    margin: 36px 10px 4px 100px;
+}
+
+.footer_btn {
+    color: #FFF;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 140%;
+    display: inline-flex;
+    padding: 15px 30px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 50px;
+    background: #FF4948;
+    border: none;
+    height: 61px;
+
+
+
+}
+
+.form_box input {
+    color: #180202;
+    font-family: Rubik;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    outline: none;
+    border: none;
+
+}
+
+.footer_topBox h1 {
+    color: #180202;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 130%;
+
+}
+
+.footer_topBox p {
+    color: #180202;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 150%;
+    margin-top: 30px;
+}
+
+.footer_topBox {
+
+    padding: 54px 100px;
+}
+
+.footer_bottom {
+    height: 190px;
+    width: 100%;
+    background-color: #FF4948;
+    margin-top: 190px;
+}
+
+.footer_link {
+    display: flex;
+    gap: 30px;
+}
+
+.foter_text {
+    color: #FFF;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 140%;
+}
+
+.d_flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 60px;
+}
+
+.footer_img {
+    border: 1px solid white;
+    background-color: white;
+    padding: 10px;
+    border-radius: 50%;
+    margin-left: 15px;
+}
+/* footer */
 >>>>>>> master
